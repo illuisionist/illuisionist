@@ -1,37 +1,29 @@
-# 👋 Hi, I'm Adarsh Gautam
+### Hi there, I'm Adarsh Gautam! 👋
 
-🚀 Machine Learning & Backend Engineer  
-🧠 Interested in RAG systems, LLMs, FastAPI, LangChain  
-⚙️ Love building production-ready APIs and systems
+I am an **Integrated Post Graduate student in Information Technology** at **IIITM Gwalior** (Class of 2026). I am passionate about building scalable Machine Learning pipelines, Data Science, and DevOps/MLOps solutions.
 
 ---
 
-## 🧩 What I’m Working On
-- 🔍 Enterprise-grade RAG systems with FastAPI + LangChain
-- 📄 Document search & semantic QA pipelines
-- 🤖 Exploring LLM infra, vector databases, and API design
+### 🛠️ Tech Stack & Interests
+* **Languages:** Python, SQL, C++, LaTeX
+* **Domains:** Machine Learning, Data Science, Computer Networks, IoT, Wireless Sensor Networks
+* **DevOps & MLOps:** Docker, Kubernetes, Jenkins, Kafka, Spark, Airflow, MLFlow, Prefect, FastAPI
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, Java, SQL  
-**Backend:** FastAPI, Flask  
-**ML / AI:** LangChain, FAISS, OpenAI APIs  
-**Tools:** Git, Docker, Postman
+### 🔭 Current Projects
+* **Flight Delay Predictor:** An end-to-end MLOps pipeline to predict flight delays using FAA standards. Built with **Docker**, **MLFlow**, **Prefect**, and **Evidently** to ensure reproducible and monitored deployments.
+* **Expense Splitter:** A full-stack application with **FastAPI** backend and **Streamlit** frontend for managing shared expenses.
+* **Real-time Crypto Pipeline:** A streaming data pipeline using **Kafka**, **Spark**, and **Cassandra**.
 
 ---
 
-## 📌 Featured Projects
-- **Enterprise RAG Document API**  
-  Semantic search & Q&A over private documents using FastAPI  
-
-- **Expense Splitter**  
-  Python-based expense management system  
-
-- **Flight Delay Predictor**  
-  ML-powered delay prediction model
+### 🎓 Education
+**Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior**
+*Integrated B.Tech + M.Tech in Information Technology*
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/illuisionist
+### 📫 Connect with me
+* [LinkedIn](#) *https://www.linkedin.com/in/adarsh-gautam-3369a6202*
+* [Email](#) *kumar.adarsh270602@gmail.com*
