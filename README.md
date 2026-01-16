@@ -81,6 +81,6 @@ I am passionate about building scalable **Machine Learning pipelines**, **Big Da
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adarsh Gautam" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/adarsh-gautam-3369a6202" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adarsh Gautam" /></a>
+<a href="mailto:kumar.adarsh270602@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
