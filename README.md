@@ -46,12 +46,12 @@ I am passionate about building scalable **Machine Learning pipelines**, **Big Da
 - **Tech:** Docker, MLFlow, Prefect, Evidently, XGBoost.
 - **Key Features:** Experiment tracking, workflow orchestration, and drift monitoring.
 
-#### 💸 Expense Splitter Application
+#### 💸 [Expense Splitter Application](https://github.com/illuisionist/expense_splitter)
 *A full-stack application for managing shared expenses.*
 - **Tech:** FastAPI (Backend), Streamlit (Frontend).
 - **Status:** In active development.
 
-#### 🪙 Real-time Cryptocurrency Pipeline
+#### 🪙 [Real-time Cryptocurrency Pipeline](https://github.com/illuisionist/Flight-delay-Predictor)
 *Streaming data pipeline for live crypto market analysis.*
 - **Tech:** Python, Kafka, Spark, Airflow, Cassandra.
 - **Metrics:** High-throughput data ingestion and real-time processing.
