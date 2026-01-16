@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Adarsh Gautam
 
-<!--
-**illuisionist/illuisionist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning & Backend Engineer  
+🧠 Interested in RAG systems, LLMs, FastAPI, LangChain  
+⚙️ Love building production-ready APIs and systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 What I’m Working On
+- 🔍 Enterprise-grade RAG systems with FastAPI + LangChain
+- 📄 Document search & semantic QA pipelines
+- 🤖 Exploring LLM infra, vector databases, and API design
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, Java, SQL  
+**Backend:** FastAPI, Flask  
+**ML / AI:** LangChain, FAISS, OpenAI APIs  
+**Tools:** Git, Docker, Postman
+
+---
+
+## 📌 Featured Projects
+- **Enterprise RAG Document API**  
+  Semantic search & Q&A over private documents using FastAPI  
+
+- **Expense Splitter**  
+  Python-based expense management system  
+
+- **Flight Delay Predictor**  
+  ML-powered delay prediction model
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/illuisionist
